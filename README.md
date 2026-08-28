@@ -1,6 +1,6 @@
 # DCF Valuation Models
 
-DCF valuation models with visualized cash-flow projections and sensitivity analysis. Built to value semiconductor companies from the ground up — revenue drivers, FCF buildout, WACC, and terminal value.
+DCF valuation models with visualized cash-flow projections and sensitivity analysis. 
 
 ## Models
 - **NVIDIA_DCF_Model.xlsx** — DCF valuation of NVIDIA
